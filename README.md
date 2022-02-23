@@ -15,3 +15,4 @@ git config --global user.name "Your Name"
 
 ## 로그인 기능 개발
 // 코드라고 가정....6자리인지 로지
+// 아이디에 한글 있는지 확인....
