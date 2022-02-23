@@ -9,3 +9,4 @@ git config --global user.name "Your Name"
 
 ## 해야할 일
 - Git Commit하기 
+- Git Push하기
