@@ -11,3 +11,4 @@ git config --global user.name "Your Name"
 - Git Commit하기 
 - Git Push하기
 - Jenkins 얼른 하기
+- 퇴근하기
