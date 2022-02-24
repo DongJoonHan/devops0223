@@ -68,12 +68,12 @@ CppNCSS 플러그인 이용
 ## CPD 실행
 100 Token 이상, C++ 을 대상으로 분석, 엑셀에서 확인하기 위해 csv로 출력해서 저장
 ```
-cpd.bat --minimum-tokens 100 --files . --language cpp --format csv > cpd_result.csv
+cpd.bat --minimum-tokens 100 --files . --language py --format csv > cpd_result.csv
 ```
 
 ### Jenkins를 위한 실행
 ```
-cpd --minimum-tokens 100 --files . --language cpp --format xml > cpd.xml
+cpd --minimum-tokens 100 --files . --language py --format xml > cpd.xml
 ```
 
 ### Jenkins를 위한 설정
