@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_calc.testCalc-20220224150807" tests="2" file="test_calc.py" time="0.004" timestamp="2022-02-24T15:08:07" failures="0" errors="0" skipped="0">
+	<testcase classname="test_calc.testCalc" name="test_minus" time="0.003" timestamp="2022-02-24T15:08:07" file="test_calc.py" line="10"/>
+	<testcase classname="test_calc.testCalc" name="test_sum" time="0.001" timestamp="2022-02-24T15:08:07" file="test_calc.py" line="6"/>
+</testsuite>
