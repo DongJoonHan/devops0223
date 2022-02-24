@@ -76,6 +76,10 @@ cpd.bat --minimum-tokens 100 --files . --language cpp --format csv > cpd_result.
 cpd --minimum-tokens 100 --files . --language cpp --format xml > cpd.xml
 ```
 
+### Jenkins를 위한 설정
+- Warning Next Generation 플러그인 이용
+- 내부에서 CPD 지정
+
 
 ## CPPChcek 실행
 ```
