@@ -21,3 +21,16 @@ git config --global user.name "Your Name"
 ## Jenkins 에서 커버리지 표현하기
 ### 플러그인 설치
 - Cobertura 플러그인 설치
+
+## Unittest 결과를 Jenkins에서 보기
+### Unitetest 결과의 xml 저장 도구 설치
+pip install unittest-xml-reporting
+
+### 실행
+```
+del testReport /s /f /q
+python -m xmlrunner discover -o testReport
+```
+
+### Jenkins
+Junit 테스트 결과와 매핑
