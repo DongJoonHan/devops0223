@@ -34,3 +34,11 @@ python -m xmlrunner discover -o testReport
 
 ### Jenkins
 Junit 테스트 결과와 매핑
+![image](https://user-images.githubusercontent.com/8405564/155468303-37c4951d-b48e-4832-a899-0acaabe87460.png)
+
+![image](https://user-images.githubusercontent.com/8405564/155468454-a899cd37-9b07-4dbe-ac50-4964e9331ecb.png)
+
+```
+testReport/TEST-*.xml
+```
+
