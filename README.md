@@ -16,3 +16,8 @@ git config --global user.name "Your Name"
 ## 로그인 기능 개발
 // 코드라고 가정....6자리인지 로지
 // 아이디에 한글 있는지 확인....
+
+
+## Jenkins 에서 커버리지 표현하기
+### 플러그인 설치
+- Cobertura 플러그인 설치
